@@ -46,18 +46,17 @@ AI tools are used to assist with lab infrastructure, scenario preparation, and d
 
 ## Selected Support Incidents
 
-Detailed incident write-ups will be added as training continues.
+### [Domain Resources Unavailable While Internet Remained Functional](incidents/dns-domain-resource-access.md)
 
-Current areas represented in the lab include:
+Diagnosed a domain-joined Windows 11 workstation that retained internet
+connectivity while losing access to mapped organizational resources.
+Isolated the problem to incorrect client DNS configuration, corrected
+the configuration, and verified restored resource access.
 
-- Windows endpoint connectivity
-- DNS and domain-resource access
-- Shared-drive and SMB troubleshooting
-- Windows printing and services
-- Active Directory account support
-- Group Policy processing and assigned resources
-- Endpoint configuration and device troubleshooting
-- Support documentation and escalation
+**Skills:** Windows 11 · DNS · Domain Resources · Mapped Drives ·
+Network Troubleshooting · Verification
+
+Additional support incidents will be added as training continues.
 
 ## Portfolio Status
 
