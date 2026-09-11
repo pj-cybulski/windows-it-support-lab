@@ -56,6 +56,17 @@ the configuration, and verified restored resource access.
 **Skills:** Windows 11 · DNS · Domain Resources · Mapped Drives ·
 Network Troubleshooting · Verification
 
+### [Workstation Lost Network Connectivity](incidents/disabled-network-adapter.md)
+
+Troubleshot a Windows 11 workstation that lost internet access and
+organizational network connectivity while other users remained
+unaffected. Isolated the issue to the local workstation, identified a
+disabled Ethernet adapter in Device Manager, restored the adapter, and
+verified connectivity.
+
+**Skills:** Windows 11 · Device Manager · Network Adapters ·
+TCP/IP · Scope Isolation · Verification
+
 Additional support incidents will be added as training continues.
 
 ## Portfolio Status
