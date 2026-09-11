@@ -125,8 +125,13 @@ resolution with a successful physical test page.
 **Skills:** Windows 11 · Network Printing · Windows Services ·
 Print Spooler · Permission Boundaries · Verification
 
-Additional support incidents will be added as training continues.
-
 ## Portfolio Status
 
-This portfolio is an active record of ongoing hands-on Windows IT support training. Additional incidents will be added as they are completed and reviewed.
+This portfolio is an active record of ongoing hands-on Windows IT
+support training. Additional incidents will be added as they are
+completed and reviewed.
+
+For examples of technical systems I supported, maintained, documented,
+and built during my professional career, see my
+[Professional Technical Projects](https://github.com/pj-cybulski/professional-technical-projects)
+portfolio.
