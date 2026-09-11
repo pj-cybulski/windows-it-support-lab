@@ -57,6 +57,20 @@ The environment includes:
 
 The lab is intentionally presented here as a generic organizational environment and is not intended to represent the internal systems or architecture of any real organization.
 
+## Core Skills Demonstrated
+
+- Windows 11 endpoint troubleshooting and support
+- Active Directory user and computer support
+- Password resets, account status, and group membership
+- Group Policy application and client-side troubleshooting
+- DNS, DHCP, TCP/IP, and network connectivity troubleshooting
+- SMB network shares, mapped drives, and permissions
+- Windows print services and network printing
+- Windows services, Device Manager, and endpoint configuration
+- Diagnostic tools including `ipconfig`, `ping`, `nslookup`,
+  `gpresult`, and `Test-NetConnection`
+- Troubleshooting documentation, verification, and escalation
+
 ## Training Method
 
 Support incidents are introduced into the lab as controlled troubleshooting scenarios.
