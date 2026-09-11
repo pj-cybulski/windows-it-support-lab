@@ -1,7 +1,19 @@
 # Windows IT Support Lab
 
-Hands-on Windows support environment used to practice realistic endpoint troubleshooting, Active Directory user support, Group Policy troubleshooting, shared resources, printing, client networking, documentation, and escalation in a simulated organizational setting.
+**PJ Cybulski | CompTIA A+ Certified**
 
+Hands-on portfolio documenting my practical Windows IT support training
+and troubleshooting work in a simulated organizational environment.
+
+I created this lab to develop and reinforce the support skills used in
+managed Windows environments. My focus is on diagnosing user and
+workstation problems, understanding the evidence before making changes,
+verifying the resolution, documenting the work performed, and
+recognizing when an issue should be escalated.
+
+This portfolio complements my professional experience providing
+technical support for users, software, computers, peripherals, networked
+AV systems, and collaboration technology.
 ## Purpose
 
 This lab was created to build and reinforce practical IT support skills through realistic support scenarios rather than infrastructure design for its own sake.
