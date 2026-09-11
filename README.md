@@ -30,6 +30,15 @@ The focus is on supporting users and Windows workstations inside an existing man
 - Windows services, startup, applications, drivers, and peripherals
 - Ticket documentation, verification, and appropriate escalation
 
+## Lab Topology
+
+The lab uses a Windows Server domain environment with multiple
+domain-joined Windows 11 workstations and shared organizational
+resources. The diagram below shows the simplified environment used
+for support and troubleshooting exercises.
+
+![Windows IT Support Lab topology](images/windows-it-support-lab-topology.png)
+
 ## Lab Environment
 
 The environment includes:
