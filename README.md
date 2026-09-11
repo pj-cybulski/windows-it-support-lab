@@ -2,18 +2,19 @@
 
 **PJ Cybulski | CompTIA A+ Certified**
 
-Hands-on portfolio documenting my practical Windows IT support training
-and troubleshooting work in a simulated organizational environment.
+IT support portfolio demonstrating hands-on Windows endpoint
+troubleshooting, Active Directory user support, Group Policy,
+network resources, printing, and client networking in a simulated
+organizational environment.
 
-I created this lab to develop and reinforce the support skills used in
-managed Windows environments. My focus is on diagnosing user and
-workstation problems, understanding the evidence before making changes,
-verifying the resolution, documenting the work performed, and
-recognizing when an issue should be escalated.
+I am an experienced technical professional transitioning into IT
+support after a career supporting broadcast, production, networking,
+storage, and end-user technology in municipal government.
 
-This portfolio complements my professional experience providing
-technical support for users, software, computers, peripherals, networked
-AV systems, and collaboration technology.
+This lab supplements that professional experience with hands-on
+practice supporting users and Windows workstations in a managed
+domain environment.
+
 ## Purpose
 
 This lab was created to build and reinforce practical IT support skills through realistic support scenarios rather than infrastructure design for its own sake.
