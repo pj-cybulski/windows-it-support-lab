@@ -67,6 +67,18 @@ verified connectivity.
 **Skills:** Windows 11 · Device Manager · Network Adapters ·
 TCP/IP · Scope Isolation · Verification
 
+### [Network Shares Unavailable Despite Normal Network Connectivity](incidents/smb-connectivity-firewall.md)
+
+Investigated a Windows 11 workstation where internet connectivity, DNS,
+and basic server communication remained functional while SMB network
+shares were inaccessible. Isolated the failure to TCP port 445,
+identified a local firewall rule blocking the service, restored
+connectivity, and documented the unexplained configuration for
+escalation.
+
+**Skills:** Windows 11 · SMB · TCP/445 · Test-NetConnection ·
+Windows Defender Firewall · Troubleshooting · Escalation
+
 Additional support incidents will be added as training continues.
 
 ## Portfolio Status
