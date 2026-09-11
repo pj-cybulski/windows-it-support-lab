@@ -114,6 +114,16 @@ escalation.
 **Skills:** Windows 11 · SMB · TCP/445 · Test-NetConnection ·
 Windows Defender Firewall · Troubleshooting · Escalation
 
+### [Shared Printer Present but Unable to Print](incidents/print-spooler-service.md)
+
+Troubleshot a shared network printer that remained installed but would
+not print. Identified a stopped Windows Print Spooler service, restored
+functionality within available technician permissions, and verified the
+resolution with a successful physical test page.
+
+**Skills:** Windows 11 · Network Printing · Windows Services ·
+Print Spooler · Permission Boundaries · Verification
+
 Additional support incidents will be added as training continues.
 
 ## Portfolio Status
