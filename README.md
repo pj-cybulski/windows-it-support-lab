@@ -56,8 +56,6 @@ The environment includes:
 - Physical network printer
 - Virtualized lab infrastructure
 
-The lab is intentionally presented here as a generic organizational environment and is not intended to represent the internal systems or architecture of any real organization.
-
 ## Core Skills Demonstrated
 
 - Windows 11 endpoint troubleshooting and support
@@ -78,7 +76,7 @@ Support incidents are introduced into the lab as controlled troubleshooting scen
 
 During an exercise, the reported symptom is presented without revealing the underlying cause. I then work through the issue using normal support and diagnostic methods, document the evidence gathered, determine and implement an appropriate resolution when possible, verify functionality, and escalate when the issue falls outside the technician role or requires additional investigation.
 
-AI tools are used to assist with lab infrastructure, scenario preparation, and documentation. Troubleshooting decisions, diagnostic steps, resolutions, verification, and escalation decisions documented in this portfolio reflect my own work during the exercises.
+AI tools are used to assist with lab infrastructure and scenario preparation. Troubleshooting decisions, diagnostic steps, ticket documentation, resolutions, verification, and escalation decisions documented in this portfolio reflect my own work during the exercises.
 
 ## Selected Support Incidents
 
